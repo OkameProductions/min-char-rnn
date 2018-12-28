@@ -1,6 +1,8 @@
 # min-char-rnn
 Andrey Karpathy (@karpathy)'s min-char-rnn.py, edited a bit to support reading different inputs and writing to files and to work with Python3.
-## Parts of the code edited:
+## Usage
+```python min-char-rnn.py input.txt output.txt```
+## Parts of the code edited
 New section added:
 ```py
 # Code changes to support custom input-output by Scy Productions (@RealScyP)
